@@ -1,3 +1,4 @@
 ghcr.io/immich-app/immich-server:v1.108.0
 ghcr.io/immich-app/immich-machine-learning:v1.108.0
+ghcr.io/immich-app/immich-machine-learning-openvino:v1.108.0
 linuxserver/nextcloud:29.0.3
